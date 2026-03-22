@@ -45,7 +45,7 @@ Simulation and testing are conducted using **Cisco Packet Tracer**.
 - **Topology:** Hybrid mesh-ring for redundancy and scalability.
 
 ### ENTC Building LAN
-![ENTC LAN](images/entc_lan.png)
+![ENTC LAN](images/entc.png)
 
 - VLAN-based internal network
 - Spanning Tree Protocol (STP) to prevent loops
@@ -58,11 +58,13 @@ Simulation and testing are conducted using **Cisco Packet Tracer**.
 
 
 ### Application Layer Testing
-![Web and Email Test](images/email.png)  
+![Web and Email Test](images/email.png)
+![Web and Email Test](images/web.png)
+
 Tested HTTP, HTTPS, and email communication within the network.
 
 ### OSPF Verification
-![OSPF Neighbors](images/ospf_neighbors.png)  
+![OSPF Neighbors](images/OSPF.png)  
 Confirmed OSPF adjacency and routing table entries.
 
 ---
